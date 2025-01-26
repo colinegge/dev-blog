@@ -5,14 +5,14 @@ categories: [Computational Fabrication]
 tags: [research] # TAG names should always be lowercase
 ---
 
-Examples of Computatonal Design
+Examples of Computational Design
 
 ## Designed by Nature
 
 ### Flora - Slime Molds
 
-![Audry Dussutour via Wired Magazine](/assets/img/compfab/slimemold.png)
-*Audry Dussutour via Wired Magazine*
+![Audrey Dussutour via Wired Magazine](/assets/img/compfab/slimemold.png)
+*Audrey Dussutour via Wired Magazine*
 
 Slime mold exhibits a range of intelligent behaviors - including a fractal pathfinding behavior it uses to seek out food. The mold sends out vein-like envoys that explore an environment - when food is located, all non-pertinent paths are retracted.
 
@@ -21,28 +21,25 @@ but also find the most efficient route through them.
 
 The behavior can be emulated using a compute shader:
 
-
-![Sebastian Lague Slime Sim ](/assets/img/compfab/slimesim-sebastian.PNG)
+![Sebastian Lague Slime Sim](/assets/img/compfab/slimesim-sebastian.PNG)
 *Sebastian Lague, Slime Simulation*
-
 
 *Sources:*  
 <https://pubmed.ncbi.nlm.nih.gov/22328188/>  
-<https://www.pbs.org/wgbh/nova/article/  slime-mold-smart-brainless-cognition/>   
+<https://www.pbs.org/wgbh/nova/article/slime-mold-smart-brainless-cognition/>   
 <https://appvoices.org/2019/10/11/slime-mold-intelligence/>  
 <https://github.com/SebLague/Slime-Simulation?tab=readme-ov-file>  
-
 
 ### Fauna - Animal Patterns
 
 ![Zebra Fish Pattern](/assets/img/compfab/zebra-fish.png)
 *Zebra Fish, via Powers Scientific*
 
-The patterns of the Zebra fish are the result of the interaction between two different types of cells - black melanophors and yellow xanthophores. The black cells are attracted the yellow cells - but yellow cells are repelled by the black cells - forming evenly spaced patterns that are stratefied as the cells mature.
+The patterns of the Zebra fish are the result of the interaction between two different types of cells - black melanophores and yellow xanthophores. The black cells are attracted to the yellow cells - but yellow cells are repelled by the black cells - forming evenly spaced patterns that are stratified as the cells mature.
 
-This relationship was modelled by Alan Turing as an interaction between what he called morphogens - an Activator, and an Inhibitor. Different ratios of influence lead to different patterns. This model can be used to describe a variety of natural patterns including animal spots and slime mold colonies.
+This relationship was modeled by Alan Turing as an interaction between what he called morphogens - an Activator, and an Inhibitor. Different ratios of influence lead to different patterns. This model can be used to describe a variety of natural patterns including animal spots and slime mold colonies.
 
-Turing's model was the basis for the Gray-Scot equations for chemical interactions, also known as Reaction Diffusion equations, which are frequently used in computer graphics to simulate natural patterns.
+Turing's model was the basis for the Gray-Scott equations for chemical interactions, also known as Reaction Diffusion equations, which are frequently used in computer graphics to simulate natural patterns.
 
 ![alt text](/assets/img/compfab/rd-4examples.png)
 *Reaction Diffusion examples by Karl Sims*
@@ -85,7 +82,7 @@ Initially shown in a joint expedition with alongiside his wife's traditional han
 
 The Heydar Aliyev Center is a monumenal example of using parametric modelling to design a free form building. 
 
-*Source* <https://www.archdaily.com/448774/heydar-aliyev-center-zaha-hadid-architects>  
+*Source:* <https://www.archdaily.com/448774/heydar-aliyev-center-zaha-hadid-architects>  
 
 #### Cryptide Sneaker - 3D Printed Shoe
 
